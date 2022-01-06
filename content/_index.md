@@ -23,7 +23,7 @@ weight: 7
 {{< Common/clearfix divid="pdf" >}} 
 {{< Common/clearfix >}} 
 {{< ListingPage/Common/ProductFamilyBox/single-product-box >}} 
-<div class="imgblock"><img src="images/aspose_pdf-for-sharepoint.png" alt="Aspose.Pdf Exporter for Jira"></div>
+<div class="imgblock"><img src="/images/conholdate/cloud/images/aspose_pdf-for-sharepoint.png" alt="Aspose.Pdf Exporter for Jira"></div>
 <a href="https://aspose.conholdate.cloud/pdf/jira/exporter"><span class="spanclass">Aspose.PDF Exporter for <em>Jira</em></span><em>Aspose.PDF Exporter can create a PDF document from any Jira object.</em></a>
 {{< /ListingPage/Common/ProductFamilyBox/single-product-box >}} 
 
